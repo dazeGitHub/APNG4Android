@@ -11,6 +11,7 @@
         android:layout_height="match_parent"
         android:layout_gravity="center"
         android:scaleType="centerInside"
-        android:src="@drawable/ic_launcher_background" />
+        android:background="#ff0000"
+        />
 
 </LinearLayout>
